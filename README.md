@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue nas redes abaixo!
+### Como me encontrar / How to Reach Me!
  
 <div> 
   <a href="https://www.youtube.com/channel/UCcdFWi3j3tYHsGK8Ar2aD6w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
